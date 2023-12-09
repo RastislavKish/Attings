@@ -1,7 +1,7 @@
 package com.rastislavkish.attings
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 
 import android.content.Intent
 import android.provider.Settings
