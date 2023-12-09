@@ -8,3 +8,9 @@ Attings is a simple application that acts as a shortcut into this menu, providin
 
 Attings does not collect nor operate with any personal information.
 
+## Attributions
+
+Asset | Author | Source
+--- | --- | ---
+Icon | <a href="https://www.flaticon.com/free-icons/settings" title="settings icons">Settings icons created by Gregor Cresnar Premium - Flaticon</a> | [Flaticon](https://www.flaticon.com/free-icon/settings_563541)
+

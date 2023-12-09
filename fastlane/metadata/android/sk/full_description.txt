@@ -1,0 +1,12 @@
+<p>
+Niektoré zariadenia z rôznych dôvodov nezahŕňajú vo svojich Nastaveniach odkaz Dostupnosť, komplikujúc prístup k službám sprístupnenia.
+</p>
+<p>
+Attings je jednoduchá aplikácia, ktorá funguje ako skratka do týchto nastavení, poskytujúc tak jednoduchý prístup z pracovnej plochy alebo menu aplikácií.
+</p>
+
+<h2>Attribúcie</h2>
+
+<p>
+Ikona <a href="https://www.flaticon.com/free-icons/settings" title="settings icons">Settings icons created by Gregor Cresnar Premium - Flaticon</a>
+</p>
